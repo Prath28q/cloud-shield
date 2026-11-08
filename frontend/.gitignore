@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# IDE and OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# AWS credentials and private keys
+*.pem
+*.key
+
+# Logs
+*.log

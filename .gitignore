@@ -1,0 +1,8 @@
+node_modules/
+frontend/dist/
+frontend/.env
+.venv/
+__pycache__/
+*.pyc
+.env
+phishguard-backend.zip
